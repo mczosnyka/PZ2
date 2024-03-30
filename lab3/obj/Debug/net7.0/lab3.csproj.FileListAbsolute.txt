@@ -1,0 +1,14 @@
+C:\Projekty\C#Projects\lab3\bin\Debug\net7.0\lab3.exe
+C:\Projekty\C#Projects\lab3\bin\Debug\net7.0\lab3.deps.json
+C:\Projekty\C#Projects\lab3\bin\Debug\net7.0\lab3.runtimeconfig.json
+C:\Projekty\C#Projects\lab3\bin\Debug\net7.0\lab3.dll
+C:\Projekty\C#Projects\lab3\bin\Debug\net7.0\lab3.pdb
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.dll
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\refint\lab3.dll
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.pdb
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\lab3.genruntimeconfig.cache
+C:\Projekty\C#Projects\lab3\obj\Debug\net7.0\ref\lab3.dll
