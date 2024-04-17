@@ -1,0 +1,14 @@
+C:\Projekty\C#Projects\lab5.4\bin\Debug\net8.0\lab5.4.exe
+C:\Projekty\C#Projects\lab5.4\bin\Debug\net8.0\lab5.4.deps.json
+C:\Projekty\C#Projects\lab5.4\bin\Debug\net8.0\lab5.4.runtimeconfig.json
+C:\Projekty\C#Projects\lab5.4\bin\Debug\net8.0\lab5.4.dll
+C:\Projekty\C#Projects\lab5.4\bin\Debug\net8.0\lab5.4.pdb
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.AssemblyInfoInputs.cache
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.AssemblyInfo.cs
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.csproj.CoreCompileInputs.cache
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.dll
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\refint\lab5.4.dll
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.pdb
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\lab5.4.genruntimeconfig.cache
+C:\Projekty\C#Projects\lab5.4\obj\Debug\net8.0\ref\lab5.4.dll
