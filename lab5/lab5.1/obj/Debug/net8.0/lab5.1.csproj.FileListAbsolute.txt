@@ -1,0 +1,14 @@
+C:\Projekty\C#Projects\lab5.1\bin\Debug\net8.0\lab5.1.exe
+C:\Projekty\C#Projects\lab5.1\bin\Debug\net8.0\lab5.1.deps.json
+C:\Projekty\C#Projects\lab5.1\bin\Debug\net8.0\lab5.1.runtimeconfig.json
+C:\Projekty\C#Projects\lab5.1\bin\Debug\net8.0\lab5.1.dll
+C:\Projekty\C#Projects\lab5.1\bin\Debug\net8.0\lab5.1.pdb
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.AssemblyInfoInputs.cache
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.AssemblyInfo.cs
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.csproj.CoreCompileInputs.cache
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.dll
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\refint\lab5.1.dll
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.pdb
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\lab5.1.genruntimeconfig.cache
+C:\Projekty\C#Projects\lab5.1\obj\Debug\net8.0\ref\lab5.1.dll
